@@ -14,7 +14,7 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 
 4.Plot the Cost function using Gradient Descent and generate the required graph.
 
-##Program:
+## Program:
 ~~~
 /*
 Program to implement the linear regression using gradient descent.
