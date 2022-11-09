@@ -18,8 +18,8 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 ~~~
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: L.KADIN SAMSON
-RegisterNumber:  212221230084
+Developed by: GUHANANDAN V
+RegisterNumber:  212221220014
 */
 import pandas as pd
 import numpy as np
